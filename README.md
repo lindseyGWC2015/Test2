@@ -4,29 +4,30 @@
 
 **what characters can you wrap strings in?**
 
--your answer- 
+single and double quotes 
 
 
 **why does this work `alert(5);` but not this `alert(nope sorry doesn’t work);`**
 
--your answer- 
+because you cannot have a single quote within a string that is wrapped in single quotes. 
 
 
 **how do you put together two strings?**
 
--your answer- 
+with plus signs 
 
 
 **how do you write a javascript variable?**
 
--your answer- 
+by assigning a variable with a prompt
+var = prompt("...");
 
 
 **what’s wrong with this: var fullName = firstName + lastName?**
 
--your answer- 
+they left out the single or double quotes 
 
 
 **what do javascript lines normally end with?**
 
--your answer- 
+ a semicolon
